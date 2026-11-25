@@ -1,0 +1,41 @@
+Kitsune is licensed under the GNU Affero General Public License, version 3 or
+(at your option) any later version.
+
+    Copyright (C) 2026 Kitsune Project
+
+    This program is free software: you can redistribute it and/or modify it
+    under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or (at your
+    option) any later version.
+
+    This program is distributed in the hope that it will be useful, but WITHOUT
+    ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+    FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public
+    License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+The canonical text of the licence is at
+<https://www.gnu.org/licenses/agpl-3.0.txt>. It is not reproduced in this file;
+the owner should drop it in verbatim before the first release, and this notice
+is not a substitute for it.
+
+--------------------------------------------------------------------------------
+SCOPE, AND WHY IT IS WRITTEN THIS WAY
+--------------------------------------------------------------------------------
+
+This licence covers the files in THIS REPOSITORY: kitsune.manifest.json, the
+build scripts, the stylesheets, the branding and the documentation. None of them
+contains Mozilla code.
+
+Kitsune is an overlay. It ships no Firefox source and modifies none. If Firefox
+source is ever vendored here, those files carry the Mozilla Public License 2.0,
+file-level copyleft, and keep their per-file headers. Nothing in this repository
+may be relicensed in a way that conflicts with that, and no file derived from
+Firefox may be moved under this licence.
+
+"Firefox" and the Firefox logos are trademarks of the Mozilla Foundation and are
+not licensed to this project. See docs/CREDITS.md for the trademark position and
+for the fact that Kitsune is not sponsored by, endorsed by, or affiliated with
+Mozilla or the Firefox project.
